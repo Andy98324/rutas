@@ -1,10 +1,12 @@
-
-    {
+{
+  "rutas": [
+    
+{
       "id": 1,
       "image": "assets/imagenes/Acantilados.jpg",
       "title": "Acantilados de Maro",
       "price": 100,
-      "description": 'Maravillosos Acantilados de Maro'
+      "description": "Maravillosos Acantilados de Maro"
     },
     {
       "id": 2,
@@ -40,4 +42,9 @@
       "title": "Rincones de Nerja",
       "price": 150,
       "description": "Maravillosos Rincones de Nerja"
-    }
+       }
+  ],
+  "profile": {
+    "name": "transfer"
+  }
+} 
