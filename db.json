@@ -1,5 +1,5 @@
 {
-  "rutas": [
+  [
     {
   "id": "1",
   "image": "assets/images/camiseta.png",
@@ -43,7 +43,5 @@
   "description": "bla bla bla bla bla"
 }
  ],
-  "profile": {
-    "name": "transfer"
-  }
+ 
 }
