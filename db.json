@@ -1,6 +1,4 @@
 
-{
-  "rutas": [
     {
       "id": "1",
       "image": "assets/imagenes/Acantilados.jpg",
@@ -43,8 +41,3 @@
       "price": 150,
       "description": "Maravillosos Rincones de Nerja"
     }
-  ],
-  "profile": {
-    "name": "transfer"
-  }
-}
