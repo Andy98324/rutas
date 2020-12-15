@@ -1,5 +1,4 @@
-{
-  "rutas": [
+[
     
 {
       "id": 1,
@@ -44,7 +43,3 @@
       "description": "Maravillosos Rincones de Nerja"
        }
   ],
-  "profile": {
-    "name": "transfer"
-  }
-} 
