@@ -1,41 +1,41 @@
 
     {
-      id: '1',
-      image: 'assets/imagenes/Acantilados.jpg',
-      title: 'Acantilados de Maro',
-      price: '100',
-      description: 'Maravillosos Acantilados de Maro'
+      "id": 1,
+      "image": "assets/imagenes/Acantilados.jpg",
+      "title": "Acantilados de Maro",
+      "price": 100,
+      "description": 'Maravillosos Acantilados de Maro'
     },
     {
-      "id":"2",
+      "id": 2,
       "image": "assets/imagenes/balcon.jpg",
       "title": "Balcón de Europa",
       "price": 110,
       "description": "Maravilloso Balcón de Europa"
     },
     {
-      "id":"3",
+      "id": 3,
       "image": "assets/imagenes/cahorros.jpg",
       "title": "Cahorros del Rio Chillar",
       "price": 120,
       "description": "Maravillosos Cahorros en Nerja"
     },
     {
-      "id":"4",
+      "id": 4 ,
       "image": "assets/imagenes/cuevas.jpg",
       "title": "Cuevas de Nerja",
       "price": 130,
       "description": "Maravillosas Cuevas de Nerja"
     },
     {
-      "id":"5",
+      "id": 5,
       "image": "assets/imagenes/Puente.jpg",
       "title": "Puente de Aguila",
       "price": 140,
       "description": "Maravilloso Puente del Aguila"
     },
     {
-      "id":"6",
+      "id": 6 ,
       "image": "assets/imagenes/Rincones.jpg",
       "title": "Rincones de Nerja",
       "price": 150,
